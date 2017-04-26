@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AD License</string>
+
+
+    <array name="comerciallicens">
+        <item>Commercial License</item>
+        <item>Owner National ID</item>
+        <item>Pasport Copy</item>
+        <item>Business Title</item>
+    </array>
+
+
+    <array name="touristlicense">
+        <item>Tourist License</item>
+        <item>TDIC agrement</item>
+        <item>Passport Copy</item>
+        <item>Business Title</item>
+    </array>
+
+    <array name="professionallincense">
+        <item>Professional Liscens</item>
+        <item>Professional Certificate</item>
+        <item>Owner National ID</item>
+        <item>Possport Copy</item>
+        <item>Business Title</item>
+    </array>
+
+    <array name="industriallinsense">
+        <item>Industrial License</item>
+        <item>AD Chamber Agreement</item>
+        <item>Owner National ID</item>
+        <item>Possport Copy</item>
+        <item>Business Title</item>
+    </array>
+
+</resources>
